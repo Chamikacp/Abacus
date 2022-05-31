@@ -67,4 +67,10 @@ views for example, e.g. a pop- overview activated by a help button.
   
   SR3: The system shall repopulate fields with any saved user data on app 
        start-up.
-  
+
+
+![Demo](https://user-images.githubusercontent.com/58659306/171079884-c8ac0872-2ea2-4b31-a7a7-4588d8dd9d5c.gif)
+
+
+
+
